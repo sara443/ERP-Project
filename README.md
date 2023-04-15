@@ -1,4 +1,4 @@
-ust finished the "Enterprise Systems" Course provided by Information Technology Institute (ITI).
+ "Enterprise Systems" Course provided by Information Technology Institute (ITI).
 
 In this course, we learned about ERP systems, Benefits, Architecture, Vendors, the Implementation Life Cycle of ERP systems, and much more.
 
